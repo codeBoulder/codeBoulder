@@ -16,6 +16,10 @@ I'm a Computer Science student at Lviv Polytechnic University, passionate about 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeBoulder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeBoulder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📚 Learn with Me
 I'm always looking to collaborate on new projects. If you’re working on something cool, feel free to reach out!
 
