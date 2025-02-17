@@ -18,7 +18,7 @@ I'm a Computer Science student at Lviv Polytechnic University, passionate about 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeBoulder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeBoulder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeBoulder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📚 Learn with Me
 I'm always looking to collaborate on new projects. If you’re working on something cool, feel free to reach out!
